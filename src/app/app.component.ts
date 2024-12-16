@@ -4,7 +4,7 @@ import {FaIconLibrary} from "@fortawesome/angular-fontawesome";
 import {fontAwesomeIcons} from "./shared/font-awesome-icons";
 
 @Component({
-  selector: 'app-root',
+  selector: 'wac-root',
   standalone: true,
   imports: [RouterOutlet],
   templateUrl: './app.component.html',
